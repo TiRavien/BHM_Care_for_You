@@ -7,7 +7,7 @@ import './Navber.css';
 const Navber = () => {
     const { user, logOut } = useAuth();
     return (
-        <div className="fixed-top">
+        <div>
             <div className="header">
                 <p><i class="fas fa-phone-alt"></i>+876 904 3287</p>
                 <p><i class="fas fa-envelope-open-text"></i>contact@hospital.gmail.com</p>
