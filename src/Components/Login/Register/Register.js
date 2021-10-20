@@ -7,6 +7,7 @@ const Register = () => {
     return (
         <div className="register">
             <Form>
+                <h2 className="text-primary"><i class="fas fa-notes-medical"></i> Complete the Form!</h2>
                 <Form.Group className="mb-3" controlId="formGroupEmail">
                     <Form.Label>Enter Your Name</Form.Label>
                     <Form.Control type="name" placeholder="Full Name" />

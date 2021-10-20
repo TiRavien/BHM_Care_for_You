@@ -48,7 +48,7 @@ const Login = () => {
     }
     return (
         <div className="login">
-            <h2>LOGIN</h2>
+            <h2 className="text-primary"><i class="fas fa-sign-in-alt"></i> Hey, Login! </h2>
             <div>
                 <FloatingLabel
                     controlId="floatingInput"
