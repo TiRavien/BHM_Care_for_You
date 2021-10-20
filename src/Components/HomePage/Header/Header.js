@@ -42,19 +42,19 @@ const Header = () => {
             <div>
                 
                 <div className="row my-5">
-                    <div className="col-lg-4 p-50">
+                    <div className="col-lg-4 col-sm-6 col-12 p-50">
                         <h1><i class="far fa-calendar-check"></i></h1>
                         <h3>Appointments</h3>
                         <p>Find and schedule an appointment with a physician that meets your needs.</p>
                         <Button variant="dark">Schedule Appointment <i class="fas fa-arrow-right"></i></Button>
                     </div>
-                    <div className="col-lg-4">
+                    <div className="col-lg-4 col-sm-6 col-12">
                         <h1><i class="fab fa-wpforms"></i></h1>
                         <h3>Patient Forms</h3>
                         <p>To access a variety of patient forms for your convenience please click below</p>
                         <Button variant="dark">Patient Form <i class="fas fa-arrow-right"></i></Button>
                     </div>
-                    <div className="col-lg-4">
+                    <div className="col-lg-4 col-sm-6 col-12">
                         <h1><i class="fas fa-user-injured"></i></h1>
                         <h3>Patient Portal</h3>
                         <p>Request appointments, request medication refills, view and pay your statements, and more.</p>

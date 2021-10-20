@@ -8,7 +8,7 @@ const About = () => {
                 <h3 className="text-primary mt-5">Our Features</h3>
             </div>
             <div className="row">
-                <div className="col-lg-6 p-5">
+                <div className="col-lg-6 col-12 p-5">
                     <div className="col-lg-12">
                         <h3>A Brief History</h3>
                         <p>Healthcare industry started with home remedies. It began as a purely reactionary, medical practice in which people learnt about the medicinal properties of a plant through trial and error, documented it and passed on to others. The use of plants as healing agents is a long-standing practice.</p>
@@ -24,7 +24,7 @@ const About = () => {
                         </div>
                     </div>
                 </div>
-                <div className="col-lg-6">
+                <div className="col-lg-6 col-12">
                     <img src="https://i.ibb.co/vhtsTBt/doctors631x600.png" alt="" />
                 </div>
             </div>
