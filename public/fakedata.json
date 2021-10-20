@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "DENTAL",
+        "time": "Hours: Saturday – Wednesday 10:00 – 17:00",
+        "description": "Dental services at both of our locations offer everything from cleaning to complex restorative procedures.",
+        "img": "https://i.ibb.co/Bq7Y8Gp/Child-in-the-dental-chair-dental-treatment-during-surgery.jpg"
+    },
+    {
+        "id": 2,
+        "name": "FAMILY PRACTISE",
+        "time": "Hours: Saturday – Wednesday 10:00 – 17:00",
+        "description": "We provides complete medical care for your entire family from infancy to the oldest family members.",
+        "img": "https://i.ibb.co/rpw2d6f/family630x525.jpg"
+    },
+    {
+        "id": 3,
+        "name": "INTERNAL MEDICINE",
+        "time": "Hours: Saturday – Wednesday 10:00 – 17:00",
+        "description": "Internal Medicine providers specialize in treating sometimes complex health conditions in adult patients that do not require surgery.",
+        "img": "https://i.ibb.co/m6hgGLV/internal630x525.png"
+    },
+    {
+        "id": 4,
+        "name": "OB/GYN",
+        "time": "Hours: Saturday – Wednesday 10:00 – 17:00",
+        "description": "Obstetrics/Gynecology (women’s health) is dedicated to providing care for the special needs of women.",
+        "img": "https://i.ibb.co/sCJNrGF/gyn630x525.jpg"
+    },
+    {
+        "id": 5,
+        "name": "OPTOMETRY/VISION CARE",
+        "time": "Hours: Saturday – Wednesday 10:00 – 17:00",
+        "description": "Vision/optometry is available for adults and children.",
+        "img": "https://i.ibb.co/xmSGJtD/vision630x525.jpg"
+    },
+    {
+        "id": 6,
+        "name": "PHYSICAL THERAPY",
+        "time": "Hours: Saturday – Wednesday 10:00 – 17:00",
+        "description": "The Physical Therapists at Grace Health are musculoskeletal and movement specialists.",
+        "img": "https://i.ibb.co/wWnxd5Q/physical630x525.jpg"
+    }
+]

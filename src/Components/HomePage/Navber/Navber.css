@@ -1,0 +1,6 @@
+.header{
+    display: flex;
+    margin-top: 10px;
+    padding-left: 10px;
+    gap: 10%;
+}
